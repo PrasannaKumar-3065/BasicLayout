@@ -1,0 +1,56 @@
+*{
+    font-family: Georgia;
+    word-spacing: 6px;
+}
+header{
+    font-size: 40px;
+    width: 99.35%;
+    color: #eee;
+    height: 90px;
+    padding-top: 10px;
+    margin-top: -5px;
+    padding-left: 10px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    background-color: #00000096;;
+}
+.link{
+    color:#fb0404;
+    text-decoration: underline;
+}
+body{
+    background-image: url("car.jpg");
+    background-size: cover;
+}
+
+.color{
+    background-color: #00000096;
+    padding: 10px;
+}
+.container p{
+    padding: 10px;
+}
+aside{
+    width: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    background-color: #00000096;
+    color: #eee;
+    height: 560px;
+    display: flex;
+}
+article{
+    width: 75%;
+    display: block;
+}
+
+.inner-container{
+    color: #eee;
+    font-size: 16px;
+    padding: 5px;
+    margin: 10px;
+    height: 45%;
+}
